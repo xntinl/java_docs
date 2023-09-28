@@ -13,7 +13,7 @@ The purpose of software is to take input data and turn it into some desired outp
 
 * strategies to mitigate
 
-## Resilence4J
+## Resilience4J
 * CircuitBreak: recuperar en caso de caida de consumir un servicio
 * Retry: reintentar
 * RateLimiter: limitar el consumo de servicio 
